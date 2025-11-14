@@ -1,0 +1,52 @@
+{
+  "cafes": [
+    {
+      "id": 1,
+      "titulo": "Café Expresso",
+      "descricao": "Café expresso é um método de preparo de café italiano que utiliza água quente sob alta pressão para extrair o sabor e aroma de grãos finamente moídos, resultando em uma bebida concentrada, encorpada e com uma camada de espuma chamada crema. ",
+      "preco": 7.50,
+      "imagem": "https://thumbs.dreamstime.com/b/uma-x%C3%ADcara-de-caf%C3%A9-expresso-quente-com-fuma%C3%A7a-e-torrado-na-mesa-pela-manh%C3%A3-imagem-vertical-recortada-165280567.jpg",
+      "ingredientes": ["Café moído", "Água quente"]
+    },
+    {
+      "id": 2,
+      "titulo": "Cappuccino",
+      "descricao": "O café cappuccino é uma popular bebida italiana à base de café, conhecida por sua textura aveludada e cremosa. O autêntico cappuccino italiano consiste em uma mistura equilibrada de café espresso, leite vaporizado e uma espessa camada de espuma de leite. ",
+      "preco": 9.00,
+      "imagem": "https://img.freepik.com/fotos-gratis/uma-vista-superior-de-cafe-expresso-quente-com-sementes-de-cafe-marrom-na-mesa-de-madeira-marrom-bebida-de-xicara-de-cafe_140725-28168.jpg?semt=ais_hybrid&w=740&q=80",
+      "ingredientes": ["Café", "Leite vaporizado", "Espuma de leite", "Açúcar"]
+    },
+    {
+      "id": 3,
+      "titulo": "Mocha",
+      "descricao": "Ele é feito com espresso, leite vaporizado e calda de chocolate ou cacau em pó, podendo ser finalizado com chantilly.",
+      "preco": 10.50,
+      "imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/f5/c3/39/cafe-mocha.jpg",
+      "ingredientes": ["Café", "Leite", "Chocolate", "Chantilly"]
+    },
+    {
+      "id": 4,
+      "titulo": "Café gelado com caramelo",
+      "descricao": "O café gelado com caramelo é uma bebida preparada à base de café, misturado com cubos de gelos e xarope de caramelo. ",
+      "preco": 10.50,
+      "imagem": "https://www.nescafe.com/br/sites/default/files/2024-09/NES_SBU_Recipes%202024_Website_Caramel%20Ice%20Coffee_Hero%20Banner_1066x1066.jpg",
+      "ingredientes": ["Café", "Leite", "Cubos gelo", "Xarope de caramelo"]
+    },
+    {
+      "id": 5,
+      "titulo": "Latte",
+      "descricao": "O café latte é uma bebida de café italiana feita com café espresso e leite vaporizado, com uma camada de espuma de leite no topo.",
+      "preco": 8.50,
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoFD_2GI8w9ypXZV8DVklcjrEPT831STkzA&s",
+      "ingredientes": ["Café expresso", "Leite vaporizado"]
+    },
+    {
+      "id": 6,
+      "titulo": "Macchiato",
+      "descricao": "O um café macchiato é um espresso com uma pequena quantidade de leite vaporizado, ou uma mancha de espuma, que marca o café e suaviza seu sabor.",
+      "preco": 8.00,
+      "imagem": "https://app.cardapiodigital.net/dnizcafeebistro/5685-large_default/macchiato.jpg",
+      "ingredientes": ["Café expresso", "Espuma de leite"]
+    }
+  ]
+}
